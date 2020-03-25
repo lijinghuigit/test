@@ -41,8 +41,8 @@
           {img:"iconfont icon-kurong",title:"材料库",src:"/material"},
           {img:"iconfont icon-xiaoxi ",title:"消息通知",src:"/notice"},
           {img:"iconfont icon-gongnengdingyi",title:"应用市场",src:"/apmaker"},
-           {img:"iconfont icon-gongyingshang--gongsixinxi",title:"公司信息",src:"/ComponyInformation"},
-          {img:"iconfont icon-shezhi",title:"设置",src:"/setup"}
+          //  {img:"iconfont icon-gongyingshang--gongsixinxi",title:"公司信息",src:"/ComponyInformation"},
+          // {img:"iconfont icon-shezhi",title:"设置",src:"/setup"}
         ],
         
         supplierlists:[    //医生端页面左侧栏显示
