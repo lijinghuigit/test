@@ -2,7 +2,7 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-09-03 13:33:57
- * @LastEditTime: 2020-03-25 10:03:33
+ * @LastEditTime: 2020-03-25 10:13:22
  * @LastEditors: Please set LastEditors
  -->
 
@@ -42,8 +42,8 @@
           {img:"iconfont icon-xiaoxi ",title:"消息通知",src:"/notice"},
           {img:"iconfont icon-gongnengdingyi",title:"应用市场",src:"/apmaker"},
            {img:"iconfont icon-gongyingshang--gongsixinxi",title:"公司信息",src:"/ComponyInformation"},
-          {img:"iconfont icon-shezhi",title:"设置",src:"/setupp"},
-           {img:"iconfont icon-shezhi",title:"好啦",src:"/settttupp"}
+          {img:"iconfont icon-shezhi",title:"设置",src:"/setup"},
+          //  {img:"iconfont icon-shezhi",title:"好啦",src:"/settttupp"}
         ],
         
         supplierlists:[    //医生端页面左侧栏显示
