@@ -31,7 +31,7 @@
     "echarts": "^4.6.0",
     "electron-updater": "^4.0.0",
     "element-ui": "^2.13.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nedb": "^1.8.0",
     "npm": "^6.13.7",
     "qs": "^6.9.1",
